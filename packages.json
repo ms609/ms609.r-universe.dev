@@ -1,10 +1,54 @@
 [
   {
-    "package": "Rdpack",
-    "url": "https://github.com/ms609/Rdpack"
+    "package": "Ternary",
+    "url": "https://github.com/ms609/Ternary"
   },
   {
     "package": "TreeTools",
     "url": "https://github.com/ms609/TreeTools"
-  }
+  },
+  {
+    "package": "PlotTools",
+    "url": "https://github.com/ms609/PlotTools"
+  },
+  {
+    "package": "TreeDist",
+    "url": "https://github.com/ms609/TreeDist"
+  },
+  {
+    "package": "TBRDist",
+    "url": "https://github.com/ms609/TBRDist"
+  },
+  {
+    "package": "TreeDistData",
+    "url": "https://github.com/ms609/TreeDistData"
+  },
+  {
+    "package": "TreeSearch",
+    "url": "https://github.com/ms609/TreeSearch"
+  },
+  {
+    "package": "Rogue",
+    "url": "https://github.com/ms609/Rogue"
+  },
+  {
+    "package": "Quartet",
+    "url": "https://github.com/ms609/Quartet"
+  },
+  {
+    "package": "TotalCopheneticIndex",
+    "url": "https://github.com/ms609/tci"
+  },
+  {
+    "package": "ips",
+    "url": "https://github.com/ms609/ips"
+  },
+  {
+    "package": "motmot",
+    "url": "https://github.com/ms609/motmot"
+  },
+  {
+    "package": "Rdpack",
+    "url": "https://github.com/ms609/Rdpack"
+  },
 ]
